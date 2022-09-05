@@ -1,0 +1,58 @@
+export const tourData = [
+  {
+    id: 1,
+    city: "mysore",
+    img: "https://images.pexels.com/photos/4124381/pexels-photo-4124381.jpeg?auto=compress&cs=tinysrgb&w=600",
+    name: "mysore amba vilas palace tour",
+    info: "Hisrotical place and royal residence of  mysore wadeyar family",
+  },
+  {
+    id: 2,
+    city: "paris",
+    img: "./img/paris.jpeg",
+    name: "paris lights tour",
+    info: "A masterpiece of maritime signalling,cordouan's,monumental tower in paris",
+  },
+  {
+    id: 3,
+    city: "london",
+    img: "./img/london.jpeg",
+    name: "london royal palace tour",
+    info: "built in 1837 the residence of royal family in london",
+  },
+  {
+    id: 4,
+    city: "tokyo",
+    img: "./img/tokyo.jpeg",
+    name: "tokyo sushi tour",
+    info: "332.9mtr tall tower built in 1958 in the city of tokyo japan ",
+  },
+  {
+    id: 5,
+    city: "delhi",
+    img: "  https://images.pexels.com/photos/1603650/pexels-photo-1603650.jpeg?auto=compress&cs=tinysrgb&w=600 ",
+    name: "taj mahal tour",
+    info: "one of the seven wonders of the world in new delhi",
+  },
+  {
+    id: 6,
+    city: "hyderabad",
+    img: "    https://images.pexels.com/photos/9373357/pexels-photo-9373357.jpeg?auto=compress&cs=tinysrgb&w=600  ",
+    name: "charminar tour",
+    info: "A beautiful monument sculpted in 1591 in the city of hyderabad",
+  },
+  {
+    id: 7,
+    city: "ellora",
+    img: "  https://images.pexels.com/photos/9455189/pexels-photo-9455189.jpeg?auto=compress&cs=tinysrgb&w=600 ",
+    name: "kailasanatha temple tour",
+    info: "ancient monuments of india built by krishna3 of rastrakuta dynasty",
+  },
+  {
+    id: 8,
+    city: "bengaluru",
+    img: "   https://media.istockphoto.com/photos/-picture-id1053591762?b=1&k=20&m=1053591762&s=612x612&w=0&h=D5gxpIaNfRo3nkf8qAuQUEOPSYQ7WaWuk2TizXKmKm4= ",
+    name: "vidhansoudha tour",
+    info: "The legislative house of karnataka built by kengal hanumanthaiah in 1952",
+  },
+];
